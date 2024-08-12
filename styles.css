@@ -11,7 +11,7 @@
 }
 .Calculadora{
     position: absolute;
-    background-color: rgba(233, 178, 216, 0.918);
+    background-color: rgba(245, 202, 231, 0.918);
     top: 50%;
     left : 50%;
     transform: translate(-50%, -50%);
